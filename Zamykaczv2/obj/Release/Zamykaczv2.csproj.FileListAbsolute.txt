@@ -9,3 +9,14 @@ C:\Users\DOM\source\repos\Zamykaczv2\obj\Release\Zamykaczv2.csproj.GenerateResou
 C:\Users\DOM\source\repos\Zamykaczv2\obj\Release\Zamykaczv2.csproj.CoreCompileInputs.cache
 C:\Users\DOM\source\repos\Zamykaczv2\obj\Release\Shutdowner.exe
 C:\Users\DOM\source\repos\Zamykaczv2\obj\Release\Shutdowner.pdb
+E:\Damian\Informatyka\git\Shutdowner\Zamykaczv2\bin\Release\Shutdowner.exe.config
+E:\Damian\Informatyka\git\Shutdowner\Zamykaczv2\bin\Release\Shutdowner.exe
+E:\Damian\Informatyka\git\Shutdowner\Zamykaczv2\bin\Release\Shutdowner.pdb
+E:\Damian\Informatyka\git\Shutdowner\Zamykaczv2\obj\Release\Zamykaczv2.csproj.AssemblyReference.cache
+E:\Damian\Informatyka\git\Shutdowner\Zamykaczv2\obj\Release\Zamykaczv2.csproj.SuggestedBindingRedirects.cache
+E:\Damian\Informatyka\git\Shutdowner\Zamykaczv2\obj\Release\Zamykaczv2.Form1.resources
+E:\Damian\Informatyka\git\Shutdowner\Zamykaczv2\obj\Release\Shutdowner.Properties.Resources.resources
+E:\Damian\Informatyka\git\Shutdowner\Zamykaczv2\obj\Release\Zamykaczv2.csproj.GenerateResource.cache
+E:\Damian\Informatyka\git\Shutdowner\Zamykaczv2\obj\Release\Zamykaczv2.csproj.CoreCompileInputs.cache
+E:\Damian\Informatyka\git\Shutdowner\Zamykaczv2\obj\Release\Shutdowner.exe
+E:\Damian\Informatyka\git\Shutdowner\Zamykaczv2\obj\Release\Shutdowner.pdb
